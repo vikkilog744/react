@@ -1,0 +1,32 @@
+{
+    "menuRoutes": [
+        {"menuUrl": "/", "menuComp": "Menu", "menuVisible": false},
+        {"menuUrl": "/dashboard", "menuComp": "Dashboard", "menuVisible": true},
+        {"menuUrl": "/about", "menuComp": "About", "menuVisible": true},
+        {"menuUrl": "/product", "menuComp": "Product", "menuVisible": true},
+        {"menuUrl": "/contactUs", "menuComp": "ContactUs", "menuVisible": true},
+        {"menuUrl": "/*", "menuComp": "NotFound", "menuVisible": false}
+    ],
+    "cardList": [
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""},
+        {"title":"title", "subTitle":"sub Title", "description": "description", "imgURL": ""}
+    ]
+}
